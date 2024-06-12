@@ -1,1 +1,14 @@
+데이터 분석
+	- 데이터 수집
+		1) 오픈API ( 네이버, 서울 데이터포탈 등 )
+		2) 캐글
+		3) 크롤링
 
+	- 데이터 전처리
+		- 데이터 편집 ( pandas )
+	- 데이터 분석
+		- pandas
+		- excel
+		- sql
+	- 데이터 시각화
+		- matplotlib, pandas, seaborn, plotly, wordcloud...
